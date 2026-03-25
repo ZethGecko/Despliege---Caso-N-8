@@ -1,0 +1,6 @@
+projectKey=Sesion1-Despliege
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=Sesion1-Despliege
+ceTaskId=0c854d80-8af2-46a5-9a6f-e4049cad64ed
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0c854d80-8af2-46a5-9a6f-e4049cad64ed
